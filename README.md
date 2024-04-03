@@ -1,1 +1,1 @@
-# scala_fundamentals
+# SCALA Fundamentals
