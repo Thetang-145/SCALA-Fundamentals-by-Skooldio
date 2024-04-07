@@ -54,9 +54,7 @@ val p1 = Person("roof", 42)
 p1.name
 p1.age
 val p2 = Person("roof")
-val p3 = Person("roof")
-p2.toString()
-p3.toString()
-p2 == p3
 p2.name
 p2.age
+
+// Case class

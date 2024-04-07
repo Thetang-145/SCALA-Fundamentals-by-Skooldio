@@ -1,0 +1,4 @@
+[debug] [helloworld] Classpath dependencies List()
+[debug] [helloworld] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'helloworld' to '/Users/nopphawannurnuansuwan/Work/Learning/SCALA-Fundamentals-by-Skooldio/helloworld/.bloop/helloworld.json'
+[success] Generated .bloop/helloworld.json
